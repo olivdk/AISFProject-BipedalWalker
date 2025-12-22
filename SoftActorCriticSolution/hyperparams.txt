@@ -1,0 +1,6 @@
+Best Hyperparameters:
+  learning_rate: 0.0007021085200812612
+  buffer_size: 300000
+  batch_size: 128
+  tau: 0.01820502454248111
+  gamma: 0.982174020743253
